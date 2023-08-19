@@ -28,6 +28,7 @@ services:
   user-service-url: http://USER-SERVICE/user/
   booking-service-url: http://BOOKING-SERVICE/booking/
   payment-service-url: http://PAYMENT-SERVICE/payment/
+  notification-service-url: http://NOTIFICATION-SERVICE/notification/
 
 
 jwt:
